@@ -21,4 +21,4 @@ This project demonstrates the output of an XOR gate. Two switches of an FPGA are
 
 ## Results
 These results were obtained by using the Aldec Riviera simulator via the EDA Playground tool
-![Simulation results](XORGate_Results.png)
+![Simulation Results](XORGate_Results.png)
